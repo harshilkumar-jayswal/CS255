@@ -21,6 +21,9 @@ My approach to designing software involves a thorough understanding of the proje
 
 ### Credits
 Documents by Harshilkumar Jayswal
+
 Professor Federico Bermudez
+
 Module 8-2 Portfolio Journal 
+
 CS-255 System Analysis and Design @ SNHU
